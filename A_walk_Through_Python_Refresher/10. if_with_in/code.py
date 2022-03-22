@@ -34,4 +34,4 @@ if user_input.lower() == "y":
     elif abs(number - user_number) == 1:
         print("You were off by 1.")
     else:
-        print("Sorry, it's wrong!"
+        print("Sorry, it's wrong!")
